@@ -39,8 +39,7 @@ data.
 
     3.  Click **Next**.
 
-    4.  As the company name, enter Contoso *‘your alias’* Inc. (Replace *‘your
-        alias’* with your name of the alias that has been assigned to you at the
+    4.  As the company name, enter Contoso **‘alias’** Inc. (Replace **‘alias’** with your name of the alias that has been assigned to you at the
         beginning of the course, so that each student has its own company within
         the training database.)
 
