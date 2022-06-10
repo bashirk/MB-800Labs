@@ -24,7 +24,7 @@ slides in the Instructor PowerPoint decks for each lab. Based on timing
 necessities or your own teaching preferences, you may choose to move these
 slides to different parts of the course and teach the labs at different points.
 
-Lab Credentials
+**Lab Credentials**
 
 Almost all steps in the labs are performed in the CE + E5 tenants that learners
 acquire through the lab hosting agent. Since the labs are tenant-based and those
@@ -43,7 +43,7 @@ Each student should be supplied with the following through the hosting agent:
 Students should record these credentials upon their receipt and continue using
 the same credentials throughout the duration of the course.
 
-Lab Setup
+**Lab Setup**
 
 **You must perform these steps prior to the class for Business Central to be
 loaded on your tenant**.
