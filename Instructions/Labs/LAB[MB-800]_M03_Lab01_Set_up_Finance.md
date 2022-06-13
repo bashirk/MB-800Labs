@@ -85,7 +85,7 @@ opening balance on December 31st 2021.
 
 1.  Determine the local currency.
 
-    1.  Open the **General Ledger Setup** page.
+    1.  Open the ***General Ledger Setup*** page.
 
     2.  In the **General** FastTab review that the following fields regarding
         local currency are filled in correctly.
