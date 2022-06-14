@@ -106,7 +106,7 @@ opening balance on December 31st 2021.
 
 2.  Allow posting in the open accounting period.
 
-    1.  In the **General Ledger Setup** page, in the **General** FastTab, fill
+    1.  In the ***General Ledger Setup*** page, in the **General** FastTab, fill
         in the following fields:
 
         1.  In the **Allow Posting From** field, select 1/1/2022.
